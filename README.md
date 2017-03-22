@@ -1,0 +1,2 @@
+# LifeIsStrangeWebsite
+Website using Bootstrap
